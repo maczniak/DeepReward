@@ -128,5 +128,5 @@ class GridworldEnv(discrete.DiscreteEnv):
         outfile.write("\n")
 
         if mode == 'ansi':
-            return outfile.getvalue()
+            return outfile
 

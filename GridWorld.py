@@ -84,6 +84,7 @@ while True:
                                 discount * world[nextState['x'], nextState['y']]
                            # or discount * world[nextState_x,    nextState_y]
     newWorld = np.max(newWorld_withActions, axis = 2)
+    #if np.allclose(world, newWorld, atol=1e-4):
     if np.sum(np.abs(world - newWorld)) < 1e-4:
         print('Optimal Policy')
         print(newWorld)
