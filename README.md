@@ -1,5 +1,6 @@
 # 딥리워드
 
+[페이스북 그룹](https://www.facebook.com/groups/DeepReward/),
 [커리큘럼](https://docs.google.com/spreadsheets/d/1yOGenVpN9w-AlFK2Z-3IU6ihFkgooKUb9p3pUgnATS8/edit#gid=1400258417),
 [Google Drive](https://drive.google.com/drive/u/1/folders/0Bw594TdiBdAUeTlfaGhxUm1FcFE)
 
@@ -39,4 +40,6 @@
 * (강화학습기초) Implement Policy Evaluation in Python
   ([Gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Policy%20Evaluation.ipynb))
 * (딥RL페이퍼) The Nuts and Bolts of Deep Reinforcement Learning Research
+
+open `Policy Evaluation.ipynb`
 
