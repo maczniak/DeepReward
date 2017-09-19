@@ -39,7 +39,9 @@
 내용
 * (강화학습기초) Implement Policy Evaluation in Python
   ([Gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Policy%20Evaluation.ipynb))
+* (강화학습기초) Implement Policy Iteration in Python
+  ([Gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Policy%20Iteration.ipynb))
 * (딥RL페이퍼) The Nuts and Bolts of Deep Reinforcement Learning Research
 
-open `Policy Evaluation.ipynb`
+open `Policy Evaluation.ipynb` and `Policy Iteration.ipynb`
 
