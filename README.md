@@ -43,7 +43,28 @@
   ([Gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Policy%20Iteration.ipynb))
 * Implement Value Iteration in Python
   ([Gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Value%20Iteration.ipynb))
-* ~~(딥RL페이퍼) The Nuts and Bolts of Deep Reinforcement Learning Research~~
 
 open `Policy Evaluation.ipynb`, `Policy Iteration.ipynb` and `Value Iteration.ipynb`
+
+## [딥파블로프 : 파트 1 - 1회차](https://www.facebook.com/events/1583245015032401/)
+
+시간 : 2017년 10월 23일 (월) 19:30 ~ 22:30<br>
+장소 : 토즈 강남점(강남역 10번 출구)
+
+내용
+* (RL실험) 1 Introduction & 2 Reinforcement Learning
+* (강화학습기초) (셔튼 슬라이드) [Chapter 5: Monte Carlo Methods](http://incompleteideas.net/sutton/609%20dropbox/slides%20(pdf%20and%20keynote)/9-10-MC.pdf) : Heejun Park
+* (딥RL페이퍼) The Nuts and Bolts of Deep Reinforcement Learning Research - 김무성
+
+* [Design of Experiments for Reinforcement Learning](https://www.amazon.com/Design-Experiments-Reinforcement-Learning-Springer/dp/3319385518)
+
+## [딥파블로프 : 파트 1 - 2회차](https://www.facebook.com/events/138903606700850/)
+
+시간 : 2017년 11월 6일 (월) 19:30 ~ 22:30<br>
+장소 : 씨맥스(강남역 11번 출구)
+
+내용
+* (RL실험) 3 Design of Experiments - 김무성
+* (강화학습기초) [Blackjack Playground.ipynb](https://github.com/dennybritz/reinforcement-learning/blob/master/MC/Blackjack%20Playground.ipynb) - 전정호
+* (딥RL페이퍼) Learning to navigate
 
